@@ -15,7 +15,9 @@ npm test         # Run tests
 ```
 
 **Default Port:** `9000`
-**Health Check:** `GET http://localhost:9000/api/health`
+**Live Demo (Login):** [https://sih-26016-app.onrender.com/login](https://sih-26016-app.onrender.com/login)
+**Live Health Check:** [https://sih-26016-app.onrender.com/health](https://sih-26016-app.onrender.com/health)
+**Local Health Check:** `GET http://localhost:9000/api/health`
 
 ---
 

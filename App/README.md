@@ -1,8 +1,13 @@
-# SIH-26016-App
-AI + Blockchain powered Real-Time National Land Acquisition &amp; Management System for transparent, secure, and efficient digitization of the land acquisition lifecycle.
 # 🏛️ Real-Time National Land Acquisition & Management System
 
-### SIH 26016 | Team BLAZE
+### SIH 26016 | Team BLAZE | Rehan Manyar
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://sih-26016-app.onrender.com/login)
+[![Health Status](https://img.shields.io/badge/Status-Live%20%26%20Verified-brightgreen?style=for-the-badge)](https://sih-26016-app.onrender.com/health)
+
+> **🚀 Live Application (Login):** **[https://sih-26016-app.onrender.com/login](https://sih-26016-app.onrender.com/login)**  
+> **🩺 Health Check:** **[https://sih-26016-app.onrender.com/health](https://sih-26016-app.onrender.com/health)**  
+> **🔑 Demo Credentials:** `SUPER-001` or `LAND-001` | Password: `Pass@1234`
 
 An AI and Blockchain powered platform designed to digitize, streamline, and secure the complete land acquisition lifecycle — from project proposal and document submission to approval, compensation, and final possession.
 
@@ -95,3 +100,4 @@ Validation
 Risk / Anomaly Analysis
        ↓
 Structured Data
+```
